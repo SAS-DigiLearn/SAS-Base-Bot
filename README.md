@@ -1,5 +1,4 @@
-Technical README – SOP-Bot Knowledge
-Assistant
+# SOP-Bot Knowledge Assistant
 
 1. Project Purpose
 SOP-Bot is a lightweight client-side chatbot designed to help users search internal Standard
