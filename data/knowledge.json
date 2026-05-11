@@ -1,5 +1,530 @@
 [
   {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 1,
+    "type": "text",
+    "content": "</p><p>If a user reports that their email is not recognised or no account is linked, the account may not be activated yet.</p><p>",
+    "keywords": [
+      "user",
+      "reports",
+      "their",
+      "email",
+      "recognised",
+      "account",
+      "linked",
+      "account",
+      "activated"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 2,
+    "type": "text",
+    "content": "</p><p>Turas activates new starter accounts weekly using SWISS employment data. To activate an account, go to the Healthboard Administrator tab and select “View New SWISS Employment.”</p><p>",
+    "keywords": [
+      "turas",
+      "activates",
+      "starter",
+      "accounts",
+      "weekly",
+      "using",
+      "swiss",
+      "employment",
+      "data",
+      "activate",
+      "account",
+      "healthboard",
+      "administrator",
+      "select",
+      "view",
+      "swiss",
+      "employment"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 3,
+    "type": "text",
+    "content": "</p><p>Search by date range. Users awaiting activation will show with a star icon. Select the user and enter their email address exactly as shown in Outlook Contacts.</p><p>---</p><p>Two employments / SAS and NHS / access to second organisation</p><p>",
+    "keywords": [
+      "search",
+      "date",
+      "range",
+      "users",
+      "awaiting",
+      "activation",
+      "show",
+      "star",
+      "icon",
+      "select",
+      "user",
+      "enter",
+      "their",
+      "email",
+      "address",
+      "exactly",
+      "shown",
+      "outlook",
+      "contactstwo",
+      "employments",
+      "access",
+      "second",
+      "organisation"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 4,
+    "type": "text",
+    "content": "</p><p>Some users have two employments (e.g. SAS and NHS), but Turas only supports one core organisation.</p><p>",
+    "keywords": [
+      "some",
+      "users",
+      "employments",
+      "turas",
+      "only",
+      "supports",
+      "core",
+      "organisation"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 5,
+    "type": "text",
+    "content": "</p><p>Ask the user to check which organisation is set as their core organisation in their account settings.</p><p>",
+    "keywords": [
+      "user",
+      "check",
+      "which",
+      "organisation",
+      "their",
+      "core",
+      "organisation",
+      "their",
+      "account",
+      "settings"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 6,
+    "type": "text",
+    "content": "</p><p>Access to a second organisation must be requested via learning@nes.scot.nhs.uk or the “Turas Learn Onboarding Support Team” in Teams. Include the user’s Turas email address.</p><p>---</p><p>Add staff to line manager / appraisal setup / responsibility level</p><p>",
+    "keywords": [
+      "access",
+      "second",
+      "organisation",
+      "must",
+      "requested",
+      "learningnesscotnhsuk",
+      "turas",
+      "learn",
+      "onboarding",
+      "support",
+      "team",
+      "teams",
+      "include",
+      "users",
+      "turas",
+      "email",
+      "addressadd",
+      "staff",
+      "line",
+      "manager",
+      "appraisal",
+      "setup",
+      "responsibility",
+      "level"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 7,
+    "type": "text",
+    "content": "</p><p>Before assigning staff in Turas Appraisal, check that the line manager or reviewer has the correct responsibility level.</p><p>",
+    "keywords": [
+      "before",
+      "assigning",
+      "staff",
+      "turas",
+      "appraisal",
+      "check",
+      "line",
+      "manager",
+      "reviewer",
+      "correct",
+      "responsibility",
+      "level"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 8,
+    "type": "text",
+    "content": "</p><p>Search for the user, open their profile, and select “Update Employee.”</p><p>",
+    "keywords": [
+      "search",
+      "user",
+      "open",
+      "their",
+      "profile",
+      "select",
+      "update",
+      "employee"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 9,
+    "type": "text",
+    "content": "</p><p>Make sure the correct responsibility level is ticked, then save before assigning staff.</p><p>---</p><p>Assign line manager / assign reviewer / single user</p><p>",
+    "keywords": [
+      "make",
+      "sure",
+      "correct",
+      "responsibility",
+      "level",
+      "ticked",
+      "then",
+      "save",
+      "before",
+      "assigning",
+      "staffassign",
+      "line",
+      "manager",
+      "assign",
+      "reviewer",
+      "single",
+      "user"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 10,
+    "type": "text",
+    "content": "</p><p>To assign a line manager or reviewer to an individual, use the Turas Appraisal Admin site.</p><p>",
+    "keywords": [
+      "assign",
+      "line",
+      "manager",
+      "reviewer",
+      "individual",
+      "turas",
+      "appraisal",
+      "admin",
+      "site"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 11,
+    "type": "text",
+    "content": "</p><p>Search for the employee, open “User Profile” from the Actions menu, and select “Update.”</p><p>",
+    "keywords": [
+      "search",
+      "employee",
+      "open",
+      "user",
+      "profile",
+      "actions",
+      "menu",
+      "select",
+      "update"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 12,
+    "type": "text",
+    "content": "</p><p>Change the line manager or reviewer details and submit the update.</p><p>---</p><p>Assign multiple staff / bulk assign manager or reviewer</p><p>",
+    "keywords": [
+      "change",
+      "line",
+      "manager",
+      "reviewer",
+      "details",
+      "submit",
+      "updateassign",
+      "multiple",
+      "staff",
+      "bulk",
+      "assign",
+      "manager",
+      "reviewer"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 13,
+    "type": "text",
+    "content": "</p><p>To assign multiple employees to the same line manager or reviewer, use the “Add to List” option.</p><p>",
+    "keywords": [
+      "assign",
+      "multiple",
+      "employees",
+      "same",
+      "line",
+      "manager",
+      "reviewer",
+      "list",
+      "option"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 14,
+    "type": "text",
+    "content": "</p><p>Search for each employee and add them to the employment list.</p><p>",
+    "keywords": [
+      "search",
+      "each",
+      "employee",
+      "them",
+      "employment",
+      "list"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 15,
+    "type": "text",
+    "content": "</p><p>Select “Employments in List” and use “Assign Line Manager” or “Assign Reviewer.” The list will clear after changes are made.</p><p>---</p><p>Merge accounts / email already in use</p><p>",
+    "keywords": [
+      "select",
+      "employments",
+      "list",
+      "assign",
+      "line",
+      "manager",
+      "assign",
+      "reviewer",
+      "list",
+      "clear",
+      "after",
+      "changes",
+      "mademerge",
+      "accounts",
+      "email",
+      "already"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 16,
+    "type": "text",
+    "content": "</p><p>If you see the message “This email address is already in use,” this indicates a duplicate account and a merge is required.</p><p>",
+    "keywords": [
+      "message",
+      "email",
+      "address",
+      "already",
+      "indicates",
+      "duplicate",
+      "account",
+      "merge",
+      "required"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 17,
+    "type": "text",
+    "content": "</p><p>Most account merges should be handled by Learning and Development Administrators.</p><p>",
+    "keywords": [
+      "most",
+      "account",
+      "merges",
+      "should",
+      "handled",
+      "learning",
+      "development",
+      "administrators"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 18,
+    "type": "text",
+    "content": "</p><p>Escalate requests involving senior staff if required.</p><p>---</p><p>Content not appearing / missing modules / Turas content issue</p><p>",
+    "keywords": [
+      "escalate",
+      "requests",
+      "involving",
+      "senior",
+      "staff",
+      "requiredcontent",
+      "appearing",
+      "missing",
+      "modules",
+      "turas",
+      "content",
+      "issue"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 19,
+    "type": "text",
+    "content": "</p><p>If a user cannot find learning content in Turas, the issue is often due to their organisation setting.</p><p>",
+    "keywords": [
+      "user",
+      "cannot",
+      "find",
+      "learning",
+      "content",
+      "turas",
+      "issue",
+      "often",
+      "their",
+      "organisation",
+      "setting"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 20,
+    "type": "text",
+    "content": "</p><p>Ask the user to check their organisation is set to SAS in their profile.</p><p>",
+    "keywords": [
+      "user",
+      "check",
+      "their",
+      "organisation",
+      "their",
+      "profile"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 21,
+    "type": "text",
+    "content": "</p><p>They should log out and back in after updating. If the issue continues, escalate to a Learning Technologist.</p><p>---</p><p>Duplicate accounts / two employments / SWISS and manual account</p><p>",
+    "keywords": [
+      "they",
+      "should",
+      "back",
+      "after",
+      "updating",
+      "issue",
+      "continues",
+      "escalate",
+      "learning",
+      "technologistduplicate",
+      "accounts",
+      "employments",
+      "swiss",
+      "manual",
+      "account"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 22,
+    "type": "text",
+    "content": "</p><p>Duplicate accounts can occur when one account is created manually and another is created through SWISS.</p><p>",
+    "keywords": [
+      "duplicate",
+      "accounts",
+      "occur",
+      "account",
+      "created",
+      "manually",
+      "another",
+      "created",
+      "through",
+      "swiss"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 23,
+    "type": "text",
+    "content": "</p><p>The manually created employment can be terminated using the “Update” option and selecting “Terminate Employment.”</p><p>",
+    "keywords": [
+      "manually",
+      "created",
+      "employment",
+      "terminated",
+      "using",
+      "update",
+      "option",
+      "selecting",
+      "terminate",
+      "employment"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 24,
+    "type": "text",
+    "content": "</p><p>SWISS-created employments cannot be terminated, which helps identify the correct account to keep.</p><p>---</p><p>Employee moved board / change organisation / same email</p><p>",
+    "keywords": [
+      "swisscreated",
+      "employments",
+      "cannot",
+      "terminated",
+      "which",
+      "helps",
+      "identify",
+      "correct",
+      "account",
+      "keepemployee",
+      "moved",
+      "board",
+      "change",
+      "organisation",
+      "same",
+      "email"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 25,
+    "type": "text",
+    "content": "</p><p>If an employee moves to a different board but keeps the same email address, their SWISS ID does not change.</p><p>",
+    "keywords": [
+      "employee",
+      "moves",
+      "different",
+      "board",
+      "keeps",
+      "same",
+      "email",
+      "address",
+      "their",
+      "swiss",
+      "does",
+      "change"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 26,
+    "type": "text",
+    "content": "</p><p>No new account is needed.</p><p>",
+    "keywords": [
+      "account",
+      "needed"
+    ]
+  },
+  {
+    "filename": "Alexa_bot test 1.docx",
+    "paragraph": 27,
+    "type": "text",
+    "content": "</p><p>Update the organisation in their user profile to reflect the correct board.</p>",
+    "keywords": [
+      "update",
+      "organisation",
+      "their",
+      "user",
+      "profile",
+      "reflect",
+      "correct",
+      "board"
+    ]
+  },
+  {
     "filename": "Type of requests.docx",
     "paragraph": 1,
     "type": "text",
