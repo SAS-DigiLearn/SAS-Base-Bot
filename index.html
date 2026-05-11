@@ -146,6 +146,20 @@ input{
 #refreshBtn:hover {
   opacity:0.9;
 }
+
+#floatingLogo{
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 999;
+}
+
+#floatingLogo img{
+  width: 80px;     
+  height: auto;
+  opacity: 0.95;
+}  
+
 </style>
 </head>
 
@@ -337,6 +351,9 @@ function closeModal(){
 </script>
 <div id="imgModal" class="img-modal" onclick="closeModal()">
   <img id="modalImg" class="modal-content">
+</div>
+  <div id="floatingLogo">
+  <img src="./images/logo.png" alt="Logo">
 </div>
 </body>
 </html>
